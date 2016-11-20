@@ -9,4 +9,4 @@ hello() {
 # use
 # the
 # function
-echo "Hello World!"
+hello World

@@ -1,9 +1,5 @@
 #!/bin/sh
 
-hello() {
-  echo "Hello $1!"
-}
-
 # Forgot
 # to
 # use
